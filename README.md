@@ -20,6 +20,8 @@ After a minute or two of processing, Clippie spits out an MP4 you can download. 
 
 ## Clippie AI features:
 
+![Image](https://github.com/user-attachments/assets/cffffaa9-238d-443c-bba6-8512f0b49c60)
+
 The Clippie dashboard is all about templates. On the left you pick from categories like Fake Text Stories, Reddit, Top 5, etc., and the main panel teases trending examples. Under the hood, Clippie AI offers a hefty feature set:
 
 **Nine Specialized Templates:** Covers today’s viral formats – Fake Text Stories, AI Story Videos, Reddit & Twitter video converters, “Would You Rather” quizzes, Split/Podcast videos, Top-5 lists, Auto-Captions, and Voiceover gameplay clips.
