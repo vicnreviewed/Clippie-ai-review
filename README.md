@@ -193,6 +193,9 @@ At the end of the day, Clippie AI delivers on its promise of automating faceless
 
 Here are some of Clippie AI User reviews:
 
+![Image](https://github.com/user-attachments/assets/871f55e8-a1b1-444d-a8d6-41599fbaae6c)
+
+
 
 
 
