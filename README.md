@@ -4,6 +4,8 @@ I’ll admit it: I’m the kind of content creator who clicks “Try it now!” 
 
 ## What is Clippie AI?
 
+![Image](https://github.com/user-attachments/assets/fea1ac81-1cf7-4912-87f5-a87c3fd911ca)
+
 Clippie AI is an AI-powered video generation platform designed to turn your text, scripts or even thread links into short social media videos. In plain terms, it’s a text-to-video app for the social-media age. You don’t need fancy cameras or editing chops – you just paste in your content, pick a template, and Clippie’s AI handles the rest. According to the makers, it specializes in “viral faceless video content” for TikTok, YouTube Shorts, and Reels. In practice that means you feed it a script or a link (like a Reddit post or tweet), and it generates a slice-of-life or narrative clip using AI voices, subtitles, and stock footage. Clippie even gives you commercial rights to your creations, so you can monetize them on any platform – no legal headaches.
 
 ## How does Clippie AI work?
