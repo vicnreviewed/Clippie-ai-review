@@ -10,6 +10,8 @@ Clippie AI is an AI-powered video generation platform designed to turn your text
 
 ## How does Clippie AI work?
 
+![Image](https://github.com/user-attachments/assets/85c89744-aa25-4db7-a279-a36bbb74573b)
+
 Using Clippie feels more like guiding an intern than editing a film. First, you choose a template – there are nine trendy formats covering viral niches. For example, a “Reddit Story” template: you simply paste the Reddit thread URL and “Clippie will do the work for you”, creating a narrated story with captions in about a minute. Or try “Would You Rather”: type two questions, and Clippie will generate a quiz-style video showing audience percentages and AI images. There are “Voiceover” videos (AI narration over gameplay or stock clips), “Top 5 Moments” listicles (just upload five clips and it stitches them together), auto-captioning tools, and even Twitter-thread converters.
 
 Once you select a template, you input your text/script or link, pick an AI voice and language, and hit generate. Clippie’s workspace then walks you through each step: it auto-formats the script, adds background music/effects, generates or auto-selects visuals, and produces subtitles. The process really is click-and-wait. In my tests, adding captions to a clip was “as easy as upload click” – drag your video into the Auto-Captions template and it “adds beautiful and captivating captions… with a simple upload”.
