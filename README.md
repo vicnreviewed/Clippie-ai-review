@@ -114,6 +114,8 @@ In practice, you mostly drag, drop, and describe. For example, the Auto-Captions
 
 ## My Clippie AI personal experience:
 
+![Image](https://github.com/user-attachments/assets/b505d2a3-c57c-4440-b201-e2eb164d3127)
+
 On a lazy Thursday afternoon I decided to test Clippie on an absurd mission: make a promo for my e-book about coffee habits without actually filming myself. I logged in and immediately felt like a kid in a candy store full of cartoon voices. I picked the Voiceover Video template and typed a half-baked script (“Every morning I need coffee… otherwise I resemble a cranky sloth.”). Then I frantically clicked through the voice options. Liam sounded too chipper; Russell – Dramatic TV was too ominous. I settled on Charles Narrator, a friendly British accent, and hit generate.
 
 In less than a minute, Clippie spat out a 30-second video: stock footage of a yawning sloth (from the free library) played behind my text slides, while Charles smoothly droned the script. I was amazed – it did everything I asked, even syncing the subtitles nicely. The outcome looked surprisingly polished for such little effort. I spent another minute swapping out the background music to something jazzy, then downloaded the clip. Boom – instant social video. If I’d done this manually, it would’ve been hours of editing; here it was done faster than I could order an actual latte.
