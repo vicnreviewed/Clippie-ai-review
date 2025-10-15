@@ -197,7 +197,7 @@ Here are some of Clippie AI User reviews:
 
 ![Image](https://github.com/user-attachments/assets/48d935e3-d3cb-4311-8530-fcc06d523f31)
 
-
+![Image](https://github.com/user-attachments/assets/5167beb0-3e9d-4bbc-825d-c8e3e7d43137)
 
 ## Conclusion: Clippie AI Review 
 
