@@ -81,6 +81,8 @@ In short: whether you’re a solopreneur, teacher, or social media manager, Clip
 
 ## Clippie AI pricing:
 
+![Image](https://github.com/user-attachments/assets/04d20c9f-5fdf-48a4-9559-15d24c29429c)
+
 Clippie AI uses a subscription model with three tiers (all prices per month if billed monthly):
 
 **Clippie Lite – $19.99/mo:** 30 minutes of video exports, 30 minutes of AI voice time, 30 minutes of speech-to-subtitles. Includes captions in 102+ languages, 50+ AI voices, and 24/7 support.
